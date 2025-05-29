@@ -42,6 +42,5 @@ Este repositorio es parte de mi viaje de aprendizaje 📚. Aquí comparto:
 ## 🎉 Datos curiosos sobre mí
 
 - 🎧 Toco instrumentos
-- 🌌 Me encanta programar de noche.
 - 🧃 A veces escribo mejor mientras tomo jugo.
 - 🎮 Me gusta jugar videojuegos 
