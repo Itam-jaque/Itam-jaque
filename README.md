@@ -3,7 +3,7 @@
 ¡Hola! Soy **Itam Jaque**, un estudiante curioso y apasionado por la tecnología 💻 y la música 🎶. Estoy en proceso de formación como programador, aprendiendo paso a paso, cometiendo errores y celebrando cada pequeño avance. También soy músico, y me encanta imaginar cómo puedo unir ambos mundos: **el código y el arte** 🎨💾.
 
 ---
- https://media.tenor.com/vPh8mMqe5d0AAAAM/angry-hiss.gif
+ 
 ## 🧠 Sobre este proyecto
 
 Este repositorio es parte de mi viaje de aprendizaje 📚. Aquí comparto:
