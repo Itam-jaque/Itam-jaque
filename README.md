@@ -1,7 +1,6 @@
 # 🌟 Itam Jaque — Estudiante + Músico en Proceso de Formación 🚀🎧
 
-¡Hola! Soy **Itam Jaque**, un estudiante curioso y apasionado por la tecnología 💻 y la música 🎶. Estoy en proceso de formación como programador, aprendiendo paso a paso, cometiendo errores y celebrando cada pequeño avance. También soy músico, y me encanta imaginar cómo puedo unir ambos mundos: **el código y el arte** 🎨💾.
-
+¡Hola! Soy **Itam Jaque**, un estudiante curioso y apasionado por la tecnología 💻 y la música 🎶. Estoy en proceso de formación como programador, aprendiendo paso a paso, cometiendo errores y celebrando cada pequeño avance.
 ---
  
 ## 🧠 Sobre este proyecto
