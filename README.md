@@ -11,12 +11,14 @@ Este repositorio es parte de mi viaje de aprendizaje 📚. Aquí comparto:
 - Experimentos 💡  
 - Proyectos en desarrollo 🛠️  
 - Ideas locas que me ayudan a entender el mundo del desarrollo 💭  
-                                                                              ![Learning GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.pinterest.com%2Fpin%2F616500636473816342%2F&psig=AOvVaw0q4_G5_-450gP9eWmRjJmm&ust=1748729156403000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjFnvaZzI0DFQAAAAAdAAAAABAl)
+
+![Pixel Art](https://media.tenor.com/BxkrskWJYicAAAAC/pixel-hello.gif)
+
 ## 🧰 Tecnologías y herramientas que estoy usando
 
 🔹 **Lenguajes y tecnologías**:
 
-- 🐍 Python  (¡aprendiéndolo!)
+- 🐍 Python  (¡aprendiéndolo!)  
 - 🌐 HTML5 & CSS3  
 - ⚙️ JavaScript  
 
@@ -42,4 +44,5 @@ Este repositorio es parte de mi viaje de aprendizaje 📚. Aquí comparto:
 - 🧃 A veces escribo mejor mientras tomo jugo  
 - 🎮 Me gusta jugar videojuegos  
 
-![Learning GIF](https://www.google.com/url?sa=i&url=https%3A%2F%2Feducacionplasticayvisual.com%2Fcomunicacion-audiovisual%2Fpixel-art-to-css-animacion-en-pixeles%2F&psig=AOvVaw0q4_G5_-450gP9eWmRjJmm&ust=1748729156403000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjFnvaZzI0DFQAAAAAdAAAAABAE)
+![Dev Pixel](https://media.tenor.com/IHdlTRsmcS4AAAAC/programming.gif)
+
