@@ -2,8 +2,6 @@
 
 ¡Hola! Soy **Itam Jaque**, un estudiante curioso y apasionado por la tecnología 💻 y la música 🎶. Estoy en proceso de formación como programador, aprendiendo paso a paso, cometiendo errores y celebrando cada pequeño avance.
 ---
-                                                    ![Demo](![image](https://github.com/user-attachments/assets/4ee5d098-5e63-40fe-82ee-78a7a9706a5c)
-)
 
 ## 🧠 Sobre este proyecto
 
