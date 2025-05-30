@@ -44,5 +44,3 @@ Este repositorio es parte de mi viaje de aprendizaje 📚. Aquí comparto:
 - 🧃 A veces escribo mejor mientras tomo jugo  
 - 🎮 Me gusta jugar videojuegos  
 
-![Dev Pixel](https://media.tenor.com/IHdlTRsmcS4AAAAC/programming.gif)
-
